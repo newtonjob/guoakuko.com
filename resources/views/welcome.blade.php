@@ -44,12 +44,12 @@
 
         <div class="where3 wsize2 respon1">
             <h3 class="l1-txt2 p-b-30 respon6 respon7">
-                Guo-Akuko!
+                Gụọ akụkọ!
             </h3>
             <p class="m2-txt1 respon6">
                 Be the first to know when we launch!
             </p>
-            <form class="contact100-form validate-form p-t-55 w-full">
+            <form class="contact100-form validate-form p-t-55 w-full" action="{{ route('register') }}">
                 <div class="wrap-input100 validate-input m-lr-auto-lg" data-validate="Email is required: ex@abc.xyz">
                     <input class="s2-txt1 placeholder0 input100 trans-04" type="text" name="email"
                            placeholder="Enter your email...">
