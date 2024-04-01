@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Guo-Akuko - Coming Soon</title>
+    <title>Guo akuko - Coming Soon</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" type="image/png" href="/images/icons/favicon.ico"/>
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Guo akuko" />
+    <meta property="og:image" content="/og.png" />
+    <meta property="og:description" content="Be the first to know when we launch - Guo akuko!" />
+    <meta property="og:url" content="{{ url()->full() }}" />
+    <meta property="og:site_name" content="Guo akuko" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@the_eberre" />
+    <meta name="twitter:title" content="Be the first to know when we launch - Guo akuko!" />
+    <meta property="twitter:image" content="/og.png" />
+    <meta name="twitter:description" content="Be the first to know when we launch - Guo akuko!" />
+    <meta name="twitter:creator" content="@the_eberre" />
+    <meta property="og:image" content="/og.png" />
 
     <link rel="stylesheet" type="text/css" href="/vendor/bootstrap/css/bootstrap.min.css">
 
@@ -80,10 +95,10 @@
         </div>
 
         <div class="flex-w flex-col where2 respon5">
-            <a href="javascript:" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
+       {{--     <a href="javascript:" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
                 <i class="fa fa-facebook-official"></i>
-            </a>
-            <a href="javascript:" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
+            </a>--}}
+            <a href="https://twitter.com/the_eberre" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
                 <i class="fa fa-twitter-square"></i>
             </a>
             <a href="javascript:" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
