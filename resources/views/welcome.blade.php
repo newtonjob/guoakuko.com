@@ -87,7 +87,7 @@
                 <i class="fa fa-twitter-square"></i>
             </a>
             <a href="javascript:" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
-                <i class="fa fa-pinterest-square"></i>
+                <i class="fa fa-instagram"></i>
             </a>
         </div>
     </div>
