@@ -31,7 +31,7 @@
 
     <div class="w-full flex-w flex-sb-m p-l-65 p-r-80 p-t-22 p-b-185 p-lr-15-sm respon8">
         <div class="wrappic1 m-r-30 m-t-10 m-b-10">
-            <a href="/"><img src="/images/icons/logo.png" alt="LOGO"></a>
+            <a href="/"><img src="/logo-white.png" alt="LOGO" width="200" /></a>
         </div>
         <div class="flex-w m-t-10 m-b-10">
             <a href="/register" class="size2 m1-txt1 flex-c-m how-btn1 trans-04">
