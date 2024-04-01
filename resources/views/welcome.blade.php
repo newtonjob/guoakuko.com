@@ -44,7 +44,7 @@
 
         <div class="where3 wsize2 respon1">
             <h3 class="l1-txt2 p-b-30 respon6 respon7">
-                Guo-Akuko
+                Guo-Akuko!
             </h3>
             <p class="m2-txt1 respon6">
                 Be the first to know when we launch!
